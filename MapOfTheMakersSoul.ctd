@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<cherrytree>
+	<node custom_icon_id="0" foreground="" is_bold="False" name="Map Of The Maker's Soul" prog_lang="plain-text" readonly="False" tags="" unique_id="1">
+		<rich_text></rich_text>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="The Great Material Plains" prog_lang="plain-text" readonly="False" tags="" unique_id="6">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Plastic" prog_lang="plain-text" readonly="False" tags="" unique_id="5">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Metal" prog_lang="plain-text" readonly="False" tags="" unique_id="4">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Wood" prog_lang="plain-text" readonly="False" tags="" unique_id="3">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Fabric" prog_lang="plain-text" readonly="False" tags="" unique_id="7">
+				<rich_text></rich_text>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Electrical Mountains" prog_lang="plain-text" readonly="False" tags="" unique_id="8">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Electronics" prog_lang="plain-text" readonly="False" tags="" unique_id="2">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Mains" prog_lang="plain-text" readonly="False" tags="" unique_id="32">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Low Voltage" prog_lang="plain-text" readonly="False" tags="" unique_id="33">
+					<rich_text></rich_text>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Soldering" prog_lang="plain-text" readonly="False" tags="" unique_id="34">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Board Design" prog_lang="plain-text" readonly="False" tags="" unique_id="35">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Arduino" prog_lang="plain-text" readonly="False" tags="" unique_id="36">
+						<rich_text></rich_text>
+					</node>
+					<node custom_icon_id="0" foreground="" is_bold="False" name="Ras Pi" prog_lang="plain-text" readonly="False" tags="" unique_id="37">
+						<rich_text></rich_text>
+					</node>
+				</node>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Audio" prog_lang="plain-text" readonly="False" tags="" unique_id="9">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Video" prog_lang="plain-text" readonly="False" tags="" unique_id="10">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Computing" prog_lang="plain-text" readonly="False" tags="" unique_id="11">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Communications" prog_lang="plain-text" readonly="False" tags="" unique_id="12">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Radio" prog_lang="plain-text" readonly="False" tags="" unique_id="13">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Phones" prog_lang="plain-text" readonly="False" tags="" unique_id="14">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Networking" prog_lang="plain-text" readonly="False" tags="" unique_id="15">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Tool Caverns" prog_lang="plain-text" readonly="False" tags="" unique_id="16">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="CNC" prog_lang="plain-text" readonly="False" tags="" unique_id="23">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="CNC Milling" prog_lang="plain-text" readonly="False" tags="" unique_id="24">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="3D Printing" prog_lang="plain-text" readonly="False" tags="" unique_id="25">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Laser Cutters" prog_lang="plain-text" readonly="False" tags="" unique_id="26">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Biohacking Swamps" prog_lang="plain-text" readonly="False" tags="" unique_id="17">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Bodymod Island" prog_lang="plain-text" readonly="False" tags="" unique_id="27">
+				<rich_text></rich_text>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Grinding" prog_lang="plain-text" readonly="False" tags="" unique_id="28">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Tattoo" prog_lang="plain-text" readonly="False" tags="" unique_id="29">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Branding" prog_lang="plain-text" readonly="False" tags="" unique_id="30">
+					<rich_text></rich_text>
+				</node>
+				<node custom_icon_id="0" foreground="" is_bold="False" name="Scarification" prog_lang="plain-text" readonly="False" tags="" unique_id="31">
+					<rich_text></rich_text>
+				</node>
+			</node>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Chemical Vocanos" prog_lang="plain-text" readonly="False" tags="" unique_id="18">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Edibles Fields" prog_lang="plain-text" readonly="False" tags="" unique_id="19">
+			<rich_text></rich_text>
+		</node>
+		<node custom_icon_id="0" foreground="" is_bold="False" name="Arcane Ruins" prog_lang="plain-text" readonly="False" tags="" unique_id="20">
+			<rich_text></rich_text>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Books" prog_lang="plain-text" readonly="False" tags="" unique_id="21">
+				<rich_text></rich_text>
+			</node>
+			<node custom_icon_id="0" foreground="" is_bold="False" name="Upcycling" prog_lang="plain-text" readonly="False" tags="" unique_id="22">
+				<rich_text></rich_text>
+			</node>
+		</node>
+	</node>
+</cherrytree>
